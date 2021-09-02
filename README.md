@@ -12,6 +12,7 @@
   <img align="center" alt="Aquino-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  <div>
+  <br>
   <img width="50%" align="center" alt="gif" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
 </div>
   
