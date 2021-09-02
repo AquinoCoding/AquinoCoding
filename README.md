@@ -14,7 +14,7 @@
  
  <div>
   <br>
-  <img width="75%" align="center" alt="gif" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
+  <img width="50%" align="center" alt="gif" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
 </div>
   
   ##
