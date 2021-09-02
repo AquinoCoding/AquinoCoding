@@ -1,6 +1,6 @@
  
- <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
  <div>
+  <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
   <a href="https://github.com/lucasaquino09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasaquino09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaquino09&layout=compact&langs_count=16&theme=dark"/>
